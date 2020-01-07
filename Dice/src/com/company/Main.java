@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello!");
         int x = -1;
         List<Integer> DiceResults = new ArrayList<Integer>();
         System.out.println("Please start entering the list of Dice results. Separate and submit using ENTER. To mark the end of the results, enter 0.");
